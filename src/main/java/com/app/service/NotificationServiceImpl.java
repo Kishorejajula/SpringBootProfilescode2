@@ -8,7 +8,7 @@ public class NotificationServiceImpl implements INotificationService {
 
 	@Override
 	public void notificate() {
-		System.out.println("common for All");
+		System.out.println("Common for All");
 		
 	}
 
